@@ -1,4 +1,4 @@
-## Hiring Process Analytics - Data Analysis using SQL,Excel Advanced Analytics by Raj Rathod
+## Hiring Process Analytics - Data Analysis using SQL,Advanced Excel Analytics by Raj Rathod
 
 ### Overview
 Welcome to the "Hiring Process Analytics" project! In this project, we delve into the hiring process data of a multinational company to draw meaningful insights that can aid in improving the hiring process and making better hiring decisions.
